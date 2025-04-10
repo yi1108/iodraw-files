@@ -16,7 +16,7 @@
         <mxCell id="I3NcXSoXDABZk-fcjoRH-1" value="&lt;p id=&quot;20250410154012-aiws70p&quot;&gt;​&lt;span data-type=&quot;code&quot;&gt;phoenix-common&lt;/span&gt;​&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I3NcXSoXDABZk-fcjoRH-2" value="&lt;p id=&quot;20250410154012-aiws70p&quot;&gt;​&lt;span data-type=&quot;code&quot;&gt;phoenix-common&lt;/span&gt;​&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I3NcXSoXDABZk-fcjoRH-2" value="&lt;p id=&quot;20250410154012-aiws70p&quot;&gt;​&lt;span data-type=&quot;code&quot;&gt;phoenix-auth&lt;/span&gt;​&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3NcXSoXDABZk-fcjoRH-7" value="&lt;p id=&quot;20250410154012-aiws70p&quot;&gt;​&lt;span data-type=&quot;code&quot;&gt;phoenix-server&lt;/span&gt;​&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
