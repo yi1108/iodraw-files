@@ -28,8 +28,14 @@
         <mxCell id="I3NcXSoXDABZk-fcjoRH-8" value="&lt;p id=&quot;20250410154012-aiws70p&quot;&gt;​&lt;span data-type=&quot;code&quot;&gt;phoenix-iot&lt;/span&gt;​&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="I3NcXSoXDABZk-fcjoRH-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I3NcXSoXDABZk-fcjoRH-12" target="I3NcXSoXDABZk-fcjoRH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I3NcXSoXDABZk-fcjoRH-12" value="&lt;p id=&quot;20250410154012-aiws70p&quot;&gt;​&lt;span data-type=&quot;code&quot;&gt;phoenix-tdengine&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I3NcXSoXDABZk-fcjoRH-14" value="&lt;p id=&quot;20250410154012-aiws70p&quot;&gt;​&lt;span data-type=&quot;code&quot;&gt;phoenix-tdengine&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
