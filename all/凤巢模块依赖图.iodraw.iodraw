@@ -7,18 +7,6 @@
         <mxCell id="I3NcXSoXDABZk-fcjoRH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I3NcXSoXDABZk-fcjoRH-1" target="I3NcXSoXDABZk-fcjoRH-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I3NcXSoXDABZk-fcjoRH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I3NcXSoXDABZk-fcjoRH-1" target="I3NcXSoXDABZk-fcjoRH-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="I3NcXSoXDABZk-fcjoRH-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="I3NcXSoXDABZk-fcjoRH-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="320" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="370" y="321" />
-              <mxPoint x="220" y="321" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="I3NcXSoXDABZk-fcjoRH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I3NcXSoXDABZk-fcjoRH-1" target="I3NcXSoXDABZk-fcjoRH-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
